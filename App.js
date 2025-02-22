@@ -7,7 +7,7 @@ export default function App() {
   return (
     <SafeAreaProvider>
     <View style={styles.container}>
-      <Text>Open up neww App.js toworking on your app!</Text>
+      <Text>Hii this is my new text for testing but i dont know what to do!</Text>
       <Test/>
       <StatusBar style="auto" />
     </View>
